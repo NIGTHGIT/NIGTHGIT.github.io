@@ -4,7 +4,7 @@ document.getElementById('btnEnviarWhatsApph').addEventListener('click', enviarMe
 function enviarMensajeWhatsApp() {
   console.log("fgb")
   // Número de teléfono al que deseas enviar el mensaje (incluye el código de país)
-  var numeroTelefono = '8297490187';
+  var numeroTelefono = '8294688858';
 
   // Mensaje que deseas enviar (puedes URL codificarlo)
   var mensaje = ` Nombre: ${document.getElementById("name").value},
